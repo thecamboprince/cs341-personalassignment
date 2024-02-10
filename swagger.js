@@ -5,7 +5,7 @@ const doc = {
     title: "Lesson 5 Personal Assignment",
     description: "CSE 341 API",
   },
-  host: "https://cs341-personalassignment.onrender.com",
+  host: "cs341-personalassignment.onrender.com",
   schemes: ["https"],
 };
 
