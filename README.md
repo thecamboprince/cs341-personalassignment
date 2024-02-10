@@ -1,3 +1,5 @@
+# This is my Version-1 person assignment for cs341 with everything similar to the week1-week4; and Without Mongoose.
+
 # Important commands to get things going.
 
 ### Make sure to Change Directory to where the 'server.js or app.js' is BEFORE you can init or use 'npm start'
