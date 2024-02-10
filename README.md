@@ -1,4 +1,4 @@
-# This is my Version-1 person assignment for cs341 with everything similar to the week1-week4; and Without Mongoose.
+# This is my 1st version personal assignment for cs341 with everything similar to the week1-week4; and Without Mongoose. Will try to make one with Mongoose as version 2.
 
 # Important commands to get things going.
 
